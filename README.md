@@ -30,23 +30,23 @@ Instant-игра на диапазонах: игрок выбирает окно
 
 ### Play — одиночный бросок
 
-<img src="docs/screenshots/play-mode.png" width="420">
+<img src="docs/screen/play-mode.png" width="420">
 
 Окно 25.88–74.13 при вероятности 48.25%, выплата 1.69×. Сверху — история последних раундов, снизу — выбор объёма и размера ставки.
 
 ### Run — лестница с фиксацией
 
-<img src="docs/screenshots/run-mode.png" width="420">
+<img src="docs/screen/run-mode.png" width="420">
 
 Третий шаг серии: множитель зафиксирован на ×4.00, следующее попадание даёт ×8.00. Кнопка Cash Out доступна до броска — решение принимается каждый шаг.
 
-<img src="docs/screenshots/run-cashout.png" width="420">
+<img src="docs/screen/run-cashout.png" width="420">
 
 Результат фиксации: забрано ×4.00 после двух успешных шагов.
 
 ### Bullseye — бонусный режим
 
-<img src="docs/screenshots/bonus-mode.png" width="420">
+<img src="docs/screen/bonus-mode.png" width="420">
 
 Серия из 25 бросков по мишени с накоплением множителя.
 
